@@ -71,13 +71,8 @@ dist/duckKBS.exe
 ---
 
 # Preview
+<img width="531" height="448" alt="image" src="https://github.com/user-attachments/assets/0579c410-15d9-452c-8e06-a68ff447694c" />
 
-```text
-🦆 Duck Keyboard
-by Anh2Ten
-
-[ Toggle Sound ]
-```
 
 ---
 
